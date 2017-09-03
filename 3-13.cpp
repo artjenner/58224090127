@@ -1,0 +1,16 @@
+#include<stdio.h>
+int main()
+{
+	int number = 25;
+	int a=1,b=2,c=3;
+	float real = 99.99;
+	float point1=45.2, point2=30;
+	char choice = 'a';
+	char ch1='0', ch2='z';
+	printf("number = %d\n",number);
+	printf("a=%d b=%d c=%d",a,b,c);
+	printf("real=%.2f\n",real);
+	printf("point1=%.1f point2=%.0f\n",point1,point2);
+	printf("ch1=%c ch2=%c",ch1,ch2);
+	
+}
