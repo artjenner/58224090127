@@ -6,14 +6,14 @@ int main()
 	float real = 99.99;
 	float point1=45.2, point2=30;
 	char choice = 'a';
-	char ch1='0', ch2='z';
+	char ch1='o', ch2='z';
 	printf("number = %d\n",number);
 	printf("a=%d b=%d c=%d",a,b,c);
 	printf("real=%.2f\n",real);
 	printf("point1=%.1f point2=%.0f\n",point1,point2);
 	printf("ch1=%c ch2=%c\n",ch1,ch2);
 	
-	long number2 = 40000;
-	printf("number2=%d",number2);
+	long Num2ber = 40000;
+	printf("number2=%d",Num2ber);
 	
 }
